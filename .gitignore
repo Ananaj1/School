@@ -1,0 +1,12 @@
+# Общее
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Obsidian специфичные временные/ненужные файлы
+.obsidian/workspace.json
+_fit/
+
+.obsidian
+# Временно исключить папки
